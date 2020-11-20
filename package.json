@@ -1,7 +1,9 @@
 {
-  "name": "vue-dialog-container",
+  "name": "el-dialog-container",
   "version": "1.0.0",
   "license": "MIT",
+  "author": "flydream",
+  "main": "dist/el-dialog-container.min.js",
   "scripts": {
     "build": "webpack --config webpack.config.js"
   },
