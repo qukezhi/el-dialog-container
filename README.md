@@ -9,7 +9,7 @@ Vue.use(ElDialogContainer);
 ```
 
 ### Second, create a new file "DialogDemo.Vue"
-```
+```vue
 <template>
   <el-dialog-container title="弹框测试">
       <h1>测试弹框</h1>
