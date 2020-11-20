@@ -3,12 +3,13 @@
 ## How to use?
 
 ### First 
-
+```
 import ElDialogContainer from 'el-dialog-container';
 Vue.use(ElDialogContainer);
+```
 
 ### Second
-
+```
 <template>
   <el-dialog-container title="弹框测试">
       <h1>测试弹框</h1>
@@ -26,7 +27,9 @@ export default {
 <style scoped>
 
 </style>
+```
 
 ### Last
-
+```
 this.$dialog(DialogDemo, {id: 1 /* props here */}).then(r=>{});
+```
