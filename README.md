@@ -30,7 +30,7 @@ export default {
 ```
 
 ### Last
-```
+```javascript
 <template>
   <div class="home">
     <el-button type="primary" @click="onClick">测试</el-button>
