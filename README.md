@@ -3,7 +3,7 @@
 ## How to use?
 
 ### First 
-```
+```javascript
 import ElDialogContainer from 'el-dialog-container';
 Vue.use(ElDialogContainer);
 ```
@@ -30,7 +30,7 @@ export default {
 ```
 
 ### Last
-```javascript
+```vue
 <template>
   <div class="home">
     <el-button type="primary" @click="onClick">测试</el-button>
